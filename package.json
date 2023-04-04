@@ -2,7 +2,6 @@
   "name": "commitlint-config-unjs",
   "type": "module",
   "version": "0.2.0",
-  "private": true,
   "description": "A commitlint config for unjs's changelogen tool",
   "author": "John Campion",
   "license": "MIT",
