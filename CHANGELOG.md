@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.2.0
+
+### 🚀 Enhancements
+
+- Compatibility with changelogen ([a40428e](https://github.com/jcamp-code/commitlint-config-unjs/commit/a40428e))
+
+### ❤️ Contributors
+
+- John Campion <john@brightshore.com>
+
 ## v0.1.0
 
 ### 🚀 Enhancements
