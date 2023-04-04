@@ -10,7 +10,7 @@ Use with [@commitlint/cli](https://npm.im/@commitlint/cli) and [@commitlint/prom
 Identical to [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional), with these changes:
 
 - Added `examples`, `types` for compatibility with [changelogen](https://github.com/unjs/changelogen)
-- Updated commitzen icons to match [changelogen](https://github.com/unjs/changelogen)
+- Updated commitizen icons to match [changelogen](https://github.com/unjs/changelogen)
 - Added a `wip` type for commits that should not hit the changelog
 
 ## Getting started
