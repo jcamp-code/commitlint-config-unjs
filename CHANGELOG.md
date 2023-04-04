@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.0.0
+
+[compare changes](https://github.com/jcamp-code/commitlint-config-unjs/compare/v0.2.0...v1.0.0)
+
+### 📖 Documentation
+
+- Updated README ([a319ec8](https://github.com/jcamp-code/commitlint-config-unjs/commit/a319ec8))
+
+### ❤️ Contributors
+
+- John Campion <john@brightshore.com>
+
 ## v0.2.0
 
 ### 🚀 Enhancements
