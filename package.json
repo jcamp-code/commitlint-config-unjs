@@ -2,7 +2,7 @@
   "name": "commitlint-config-unjs",
   "type": "module",
   "version": "1.0.0",
-  "packageManager": "pnpm@8.1.0",
+  "packageManager": "pnpm@8.2.0",
   "description": "A commitlint config for unjs's changelogen tool",
   "author": "John Campion",
   "license": "MIT",
